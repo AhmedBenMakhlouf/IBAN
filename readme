@@ -1,0 +1,7 @@
+to run this application run:
+composer install
+symfony server:start
+
+to see the documentation:
+
+http://localhost:8000/api/doc
